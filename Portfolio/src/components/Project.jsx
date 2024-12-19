@@ -3,12 +3,12 @@ import React from 'react';
 const Projects = () => {
   const projectList = [
     {
-      title: "Weather App",
-      description: "A real-time weather app with a modern, responsive UI.",
-      technologies: "React, TailwindCSS, Axios",
-      link: "https://weather-theta-rouge-72.vercel.app/",
-      GitHub: "https://github.com/mahendran516/weather",
-      image: "https://github.com/mahendran516/images/blob/main/Screenshot%202024-10-29%20111817.png?raw=true"
+      title: "E-commerce Amazon",
+      description: "Online Shopping Website",
+      technologies: "HTML, TailwindCSS, React, Firebase",
+      link: "https://fir-561cc.web.app/",
+      GitHub: "https://github.com/mahendran516/Final-Ecommerce",
+      image: "https://github.com/mahendran516/images/blob/main/Screenshot%202024-12-19%20162010.png?raw=true"
     },
     {
       title: "TMDB Website",
@@ -18,14 +18,7 @@ const Projects = () => {
       GitHub: "https://github.com/mahendran516/cinibite",
       image: "https://github.com/mahendran516/images/blob/main/Screenshot%202024-10-29%20114238.png?raw=true"
     },
-    {
-      title: "Actodo",
-      description: " Daily Activity Task",
-      technologies: "HTML,Tailwindcss,Reactjs",
-      link: "https://actodo-react-omega.vercel.app/",
-      GitHub: "https://github.com/mahendran516/Actodo-react",
-      image: "https://github.com/mahendran516/images/blob/main/Screenshot%202024-10-30%20124739.png?raw=true"
-    },
+  
     {
       title: "Nostra E-commerce Platform",
       description: "A fully functional e-commerce website.",
@@ -49,6 +42,23 @@ const Projects = () => {
       link: "https://mahendran516.github.io/greendan-tailwindcss/",
       GitHub: "https://github.com/mahendran516/greendan-tailwindcss",
       image: "https://github.com/mahendran516/images/blob/main/Screenshot%202024-10-30%20121729.png?raw=true"
+    },
+    {
+      title: "Weather App",
+      description: "A real-time weather app with a modern, responsive UI.",
+      technologies: "React, TailwindCSS, Axios",
+      link: "https://weather-theta-rouge-72.vercel.app/",
+      GitHub: "https://github.com/mahendran516/weather",
+      image: "https://github.com/mahendran516/images/blob/main/Screenshot%202024-10-29%20111817.png?raw=true"
+    },
+ 
+    {
+      title: "Actodo",
+      description: " Daily Activity Task",
+      technologies: "HTML,Tailwindcss,Reactjs",
+      link: "https://actodo-react-omega.vercel.app/",
+      GitHub: "https://github.com/mahendran516/Actodo-react",
+      image: "https://github.com/mahendran516/images/blob/main/Screenshot%202024-10-30%20124739.png?raw=true"
     },
     {
       title: "Udemy-Clone",

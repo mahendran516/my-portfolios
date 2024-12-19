@@ -33,7 +33,7 @@ const About = () => {
             ))}
           </div>
           <div className="mt-8">
-            <a href="/path/to/your/resume.pdf" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-green-400 to-blue-500 text-white py-2 px-4 rounded-md hover:opacity-90 transition-opacity duration-300">
+            <a href="https://drive.google.com/file/d/1Fj5hERQOUFVfCIFDfasXYT2MYBCkMidd/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-green-400 to-blue-500 text-white py-2 px-4 rounded-md hover:opacity-90 transition-opacity duration-300">
               Download Resume
             </a>
           </div>
