@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+section {
+  transition: background-color 0.3s ease-in-out;
+}
+
+section:hover {
+  background-color: #f0f4f8;
+}
